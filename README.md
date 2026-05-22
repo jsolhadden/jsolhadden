@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi, I'm Jeff Hadden 👋
 
-<!--
-**jsolhadden/jsolhadden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a product manager with 10+ years of building B2C  
+products — from connected consumer devices to subscriptions.
 
-Here are some ideas to get you started:
+**What I'm currently building:**
+🔨 [Gliso](link-to-portfolio-repo) — a personal iOS grocery & meal planning app 
+built with React Native / Expo, distributed via TestFlight. I use it as a 
+hands-on lab for AI-assisted product development and am documenting the journey 
+on [LinkedIn](https://docs.google.com/document/d/19yY9sF7uinFKgNoWHYE78fOAtjUGvSQxLK89BLCASp0/edit?usp=sharing).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**What I do professionally:**
+- B2C subscriptions & services (acquisition, retention, monetization)
+- B2C Connected device / IoT product management
+- Marketing background (Kraft, Motorola)
+
+📫 [LinkedIn](https://www.linkedin.com/in/jeffreyhadden/) | Resume available on request
